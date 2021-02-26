@@ -13,7 +13,7 @@ GET: lists all products.
 
 /orders
 
-GET: list todos os pedidos.
+GET: lists all orders.
 
 POST: create an order by passing address, latitude, longitude..
 
