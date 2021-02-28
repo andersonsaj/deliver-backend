@@ -17,7 +17,7 @@ GET: lists all orders.
 
 POST: create an order by passing address, latitude, longitude..
 
-PUT: Change order status
+PUT: /{id}/delivered Change order status
 
 
 
